@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Twitter</title>
+	<link rel="icon" href="./build/img/twitter-logo.png">
+	<link rel="stylesheet" type="text/css" href="./build/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="./build/css/all.min.css">
+	<link rel="stylesheet" type="text/css" href="./build/css/index.css">
+</head>
+<body>
+	<header id="header" class="container-fluid">
+		<div class="row">
+			<div id="nav-container" class="col-lg-3 col-md-3">
+				<div id="home-btn-container">
+					<a id="home-btn" href="javascript:void(0)" title="Home"><i class="fas fa-home"></i></a>
+				</div>
+				<ul id="nav-list">
+					<li class="nav-item">
+						<a href="javascript:void(0)" title="Notifications"><i class="fas fa-bell nav-icon"></i></a>
+					</li>
+					<li class="nav-item">
+						<a href="javascript:void(0)" title="Messages"><i class="far fa-envelope nav-icon"></i></a>
+					</li>
+					<li class="nav-item">
+						<a href="javascript:void(0)" title="Hash Tags"><i class="fas fa-hashtag nav-icon"></i></a>
+					</li>
+				</ul>
+			</div>
+			<div id="logo-container" class="col">
+				<span><i id="twitter-icon" class="fab fa-twitter"></i></span>
+			</div>
+			<div class="col-lg-3 col-md-3" id="search-profile-container">
+				<div id="search-container">
+					<input type="text" name="search-field" id="search-field" placeholder="Search">
+					<span id="search-icon"><i class="fas fa-search"></i></span>
+				</div>
+				<img src="./build/img/profile-icon.png" alt="Profile Icon" id="profile-image">
+			</div>
+		</div>
+	</header>
+	<section>
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-lg-3">
+				</div>
+				<div class="col-lg-6 col-md-12" id="body-container">
+					<div class="row" id="tab-container">
+						<div class="col tab-item active-tab">
+							<span class="tab-name">Tweets</span>
+							<span class="tab-count">200</span>
+						</div>
+						<div class="col tab-item">
+							<span class="tab-name">Photos/Videos</span>
+							<span class="tab-count">200</span>
+						</div>
+						<div class="col tab-item">
+							<span class="tab-name">Following</span>
+							<span class="tab-count">200</span>
+						</div>
+						<div class="col tab-item">
+							<span class="tab-name">Followers</span>
+							<span class="tab-count">1M</span>
+						</div>
+					</div>
+					<div class="row" id="tweets-container">
+					</div>
+				</div>
+				<div class="col-lg-3">
+				</div>
+			</div>
+		</div>
+	</section>
+	<script src="./build/js/bootstrap.min.js" type="text/javascript" charset="utf-8" async defer></script>
+	<script src="./build/js/index.js" type="text/javascript" charset="utf-8" async defer></script>
+</body>
+</html>

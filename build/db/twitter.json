@@ -1,0 +1,114 @@
+{
+	"tweets": [
+		{
+			"id": "357282",
+			"name": "Kerem Suer",
+			"profile_image": "profile-icon.png",
+			"handle": "@kerem",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit at placeat accusamus asperiores voluptatum enim reprehenderit, error culpa consequatur fuga accusantium assumenda, quasi, obcaecati ab quas et tempore vitae est?",
+			"image": "",
+			"video": "",
+			"time": "2m",
+			"comments": "2",
+			"likes": "10",
+			"retweets": "6"
+		},
+		{
+			"id": "924672",
+			"name": "Hugh Jordan",
+			"profile_image": "profile-icon.png",
+			"handle": "@jordan167",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis voluptas, magni incidunt dolorum dolore animi quod beatae ea eos perspiciatis repellendus aliquid exercitationem esse consequatur, deserunt quisquam ut molestias! Aut!",
+			"image": "tweet-image-1.jpg",
+			"video": "",
+			"time": "1h",
+			"comments": "45",
+			"likes": "78",
+			"retweets": "39"
+		},
+		{
+			"id": "349624",
+			"name": "Lisa Meyers",
+			"profile_image": "profile-icon.png",
+			"handle": "@myr17",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio deleniti numquam dolorum, blanditiis consectetur architecto et officia quisquam id velit ab cumque mollitia sed, ad laborum nobis, praesentium quidem! Facere!",
+			"image": "",
+			"video": "",
+			"time": "2h",
+			"comments": "22",
+			"likes": "58",
+			"retweets": "25"
+		},
+		{
+			"id": "239147",
+			"name": "Carl Jones",
+			"profile_image": "profile-icon.png",
+			"handle": "@carl_jones",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt reiciendis magnam maxime quos, et provident corporis quia aliquam, iusto repellendus quidem? Esse, veritatis nemo itaque eveniet doloribus quod mollitia officia.",
+			"image": "",
+			"video": "https://www.youtube.com/watch?v=BRUvbiWLwFI",
+			"time": "5h",
+			"comments": "18",
+			"likes": "39",
+			"retweets": "5"
+		},
+		{
+			"id": "193462",
+			"name": "Alex Hales",
+			"profile_image": "profile-icon.png",
+			"handle": "@hales_a",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptatum, tenetur dicta consectetur aspernatur neque aperiam facere odio distinctio voluptate dolorem. Ea soluta tempora veniam quam, quia aliquid maxime illo.",
+			"image": "",
+			"video": "",
+			"time": "1d",
+			"comments": "",
+			"likes": "",
+			"retweets": ""
+		},
+		{
+			"id": "963472",
+			"name": "Kerem Suer",
+			"profile_image": "profile-icon.png",
+			"handle": "@kerem",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit nihil, repellat blanditiis explicabo rem ex nulla deserunt facilis ratione sit iusto modi saepe numquam minus in commodi nesciunt reiciendis accusamus.",
+			"image": "",
+			"video": "",
+			"time": "2d",
+			"comments": "",
+			"likes": "14",
+			"retweets": "8"
+		}
+	],
+	"accounts": [
+		{
+			"id": "3455",
+			"name": "Kerem Suer",
+			"profile_image": "profile-icon.png",
+			"handle": "@kerem"
+		},
+		{
+			"id": "3267",
+			"name": "Hugh Jordan",
+			"profile_image": "profile-icon.png",
+			"handle": "@jordan167"
+		},
+		{
+			"id": "4379",
+			"name": "Lisa Meyers",
+			"profile_image": "profile-icon.png",
+			"handle": "@myr17"
+		},
+		{
+			"id": "6381",
+			"name": "Carl Jones",
+			"profile_image": "profile-icon.png",
+			"handle": "@carl_jones"
+		},
+		{
+			"id": "5872",
+			"name": "Alex Hales",
+			"profile_image": "profile-icon.png",
+			"handle": "@hales_a"
+		}
+	]
+}
